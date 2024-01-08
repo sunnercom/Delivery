@@ -5,12 +5,12 @@ https://www.figma.com/file/IjvLhF6zcentXwFov12EVP/%D0%90%D0%B3%D1%80%D0%B5%D0%B3
 
 
 # About me
-📛`MY NAME IS`: *UZBEK CODER*
-🔰 `MY JOB IS`: *WEB DEVELOPER*
-⚒️ `I AM WORK IN`: *V/S CODE*
+📛`MY NAME IS`: *UZBEK CODER* <br>
+🔰 `MY JOB IS`: *WEB DEVELOPER* <br>
+⚒️ `I AM WORK IN`: *V/S CODE* <br>
 # Connect me
-🐈‍⬛ GIT HUB: https://github.com/sunnercom
-📱 TELEGRAM: https://t.me/tannus009
-🥅 NETLIFY: username--> Uzbek coder
+🐈‍⬛ GIT HUB: https://github.com/sunnercom <br>
+📱 TELEGRAM: https://t.me/tannus009 <br>
+🥅 NETLIFY: username--> Uzbek coder <br>
 
 
